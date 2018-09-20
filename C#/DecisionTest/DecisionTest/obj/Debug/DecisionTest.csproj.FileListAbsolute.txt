@@ -1,0 +1,6 @@
+c:\users\spark flash\documents\visual studio 2012\Projects\DecisionTest\DecisionTest\bin\Debug\DecisionTest.exe.config
+c:\users\spark flash\documents\visual studio 2012\Projects\DecisionTest\DecisionTest\bin\Debug\DecisionTest.exe
+c:\users\spark flash\documents\visual studio 2012\Projects\DecisionTest\DecisionTest\bin\Debug\DecisionTest.pdb
+c:\users\spark flash\documents\visual studio 2012\Projects\DecisionTest\DecisionTest\obj\Debug\DecisionTest.csprojResolveAssemblyReference.cache
+c:\users\spark flash\documents\visual studio 2012\Projects\DecisionTest\DecisionTest\obj\Debug\DecisionTest.exe
+c:\users\spark flash\documents\visual studio 2012\Projects\DecisionTest\DecisionTest\obj\Debug\DecisionTest.pdb

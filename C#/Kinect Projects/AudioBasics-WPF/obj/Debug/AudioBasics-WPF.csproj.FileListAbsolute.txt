@@ -1,0 +1,11 @@
+C:\Users\silve_000\Desktop\AudioBasics-WPF\bin\Debug\AudioBasics-WPF.exe
+C:\Users\silve_000\Desktop\AudioBasics-WPF\bin\Debug\AudioBasics-WPF.pdb
+C:\Users\silve_000\Desktop\AudioBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\silve_000\Desktop\AudioBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\silve_000\Desktop\AudioBasics-WPF\obj\Debug\App.g.cs
+C:\Users\silve_000\Desktop\AudioBasics-WPF\obj\Debug\AudioBasics-WPF_MarkupCompile.cache
+C:\Users\silve_000\Desktop\AudioBasics-WPF\obj\Debug\AudioBasics-WPF.g.resources
+C:\Users\silve_000\Desktop\AudioBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.AudioBasics.Properties.Resources.resources
+C:\Users\silve_000\Desktop\AudioBasics-WPF\obj\Debug\AudioBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\silve_000\Desktop\AudioBasics-WPF\obj\Debug\AudioBasics-WPF.exe
+C:\Users\silve_000\Desktop\AudioBasics-WPF\obj\Debug\AudioBasics-WPF.pdb

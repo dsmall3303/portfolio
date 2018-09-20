@@ -1,0 +1,6 @@
+c:\users\spark flash\documents\visual studio 2012\Projects\MyFirstCSApp\MyFirstCSApp\bin\Debug\MyFirstCSApp.exe.config
+c:\users\spark flash\documents\visual studio 2012\Projects\MyFirstCSApp\MyFirstCSApp\obj\Debug\MyFirstCSApp.csprojResolveAssemblyReference.cache
+C:\Users\Spark Flash\Documents\Visual Studio 2012\Projects\MyFirstCSApp\MyFirstCSApp\bin\Debug\MyFirstCSApp.exe
+C:\Users\Spark Flash\Documents\Visual Studio 2012\Projects\MyFirstCSApp\MyFirstCSApp\bin\Debug\MyFirstCSApp.pdb
+C:\Users\Spark Flash\Documents\Visual Studio 2012\Projects\MyFirstCSApp\MyFirstCSApp\obj\Debug\MyFirstCSApp.exe
+C:\Users\Spark Flash\Documents\Visual Studio 2012\Projects\MyFirstCSApp\MyFirstCSApp\obj\Debug\MyFirstCSApp.pdb

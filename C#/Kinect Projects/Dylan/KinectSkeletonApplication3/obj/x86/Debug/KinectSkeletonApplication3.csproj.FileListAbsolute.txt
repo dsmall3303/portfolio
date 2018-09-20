@@ -1,0 +1,55 @@
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\bin\Debug\KinectSkeletonApplication3.exe
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\bin\Debug\KinectSkeletonApplication3.pdb
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\MainWindow.baml
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\MainWindow.g.cs
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\App.g.cs
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3_MarkupCompile.cache
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.g.resources
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.Properties.Resources.resources
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.exe
+\\fs01\rdchambers$\visual studio 2010\Projects\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.pdb
+C:\Users\dylgaith\Desktop\Lesson 2\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.exe
+C:\Users\dylgaith\Desktop\Lesson 2\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.pdb
+E:\Kinect_Sample_Code\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.exe
+E:\Kinect_Sample_Code\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.pdb
+C:\Users\silve_000\Desktop\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.exe
+C:\Users\silve_000\Desktop\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.pdb
+C:\Users\silve_000\Desktop\Kinect\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.exe
+C:\Users\silve_000\Desktop\Kinect\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.pdb
+C:\Users\silve_000\Desktop\Kinect\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.csprojResolveAssemblyReference.cache
+C:\Users\silve_000\Desktop\Kinect\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\silve_000\Desktop\Kinect\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\silve_000\Desktop\Kinect\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\App.g.cs
+C:\Users\silve_000\Desktop\Kinect\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3_MarkupCompile.cache
+C:\Users\silve_000\Desktop\Kinect\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.g.resources
+C:\Users\silve_000\Desktop\Kinect\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.Properties.Resources.resources
+C:\Users\silve_000\Desktop\Kinect\KinectSkeletonApplication3\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.csproj.GenerateResource.Cache
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.exe
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.pdb
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\bin\Debug\KinectSkeletonApplication3.exe
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\bin\Debug\KinectSkeletonApplication3.pdb
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.csprojResolveAssemblyReference.cache
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\obj\x86\Debug\App.g.cs
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3_MarkupCompile.cache
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.g.resources
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.Properties.Resources.resources
+C:\Users\silve_000\Desktop\Kinect\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.csproj.GenerateResource.Cache
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.exe
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.pdb
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\bin\Debug\KinectSkeletonApplication3.exe
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\bin\Debug\KinectSkeletonApplication3.pdb
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.csprojResolveAssemblyReference.cache
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\obj\x86\Debug\App.g.cs
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3_MarkupCompile.cache
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.g.resources
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.Properties.Resources.resources
+C:\Users\silve_000\Desktop\Kinect_SVN\trunk\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.csproj.GenerateResource.Cache
+C:\Users\Spark Flash\Documents\Visual Studio 2012\Projects\Kinect Projects\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.exe
+C:\Users\Spark Flash\Documents\Visual Studio 2012\Projects\Kinect Projects\Dylan\KinectSkeletonApplication3\obj\x86\Debug\KinectSkeletonApplication3.pdb
