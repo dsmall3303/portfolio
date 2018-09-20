@@ -1,0 +1,46 @@
+﻿Build started 10/4/2014 1:53:13 PM.
+     1>Project "C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_StringProject\Small_StringProject\Small_StringProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MyString.cpp Source.cpp
+         Source.cpp
+         MyString.cpp
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(39): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(68): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(93): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(98): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(104): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(182) : see declaration of 'strncat'
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(124): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(141): warning C4101: 'param' : unreferenced local variable
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(170): warning C4101: 'param' : unreferenced local variable
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(204): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(221): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(227): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(249): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(262): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(265): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(182) : see declaration of 'strncat'
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(268): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(182) : see declaration of 'strncat'
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(294): warning C4101: 'param' : unreferenced local variable
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(317): warning C4101: 'param' : unreferenced local variable
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(364): warning C4172: returning address of local variable or temporary
+         Generating Code...
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(145): warning C4715: 'MyString::At' : not all control paths return a value
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_stringproject\small_stringproject\mystring.cpp(321): warning C4715: 'MyString::SubStr' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_StringProject\Debug\Small_StringProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_StringProject\Debug\Small_StringProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_StringProject\Debug\Small_StringProject.lib" /MACHINE:X86 Debug\MyString.obj
+         Debug\Source.obj
+         Small_StringProject.vcxproj -> C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_StringProject\Debug\Small_StringProject.exe
+     1>Done Building Project "C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_StringProject\Small_StringProject\Small_StringProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.00

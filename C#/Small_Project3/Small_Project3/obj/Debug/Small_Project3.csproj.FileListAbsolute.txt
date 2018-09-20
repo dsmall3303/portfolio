@@ -1,0 +1,6 @@
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project3\Small_Project3\bin\Debug\Small_Project3.exe.config
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project3\Small_Project3\bin\Debug\Small_Project3.exe
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project3\Small_Project3\bin\Debug\Small_Project3.pdb
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project3\Small_Project3\obj\Debug\Small_Project3.csprojResolveAssemblyReference.cache
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project3\Small_Project3\obj\Debug\Small_Project3.exe
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project3\Small_Project3\obj\Debug\Small_Project3.pdb

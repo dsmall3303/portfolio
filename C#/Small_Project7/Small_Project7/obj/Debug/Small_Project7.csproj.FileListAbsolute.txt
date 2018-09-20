@@ -1,0 +1,18 @@
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project7\Small_Project7\bin\Debug\Small_Project7.exe.config
+C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_Project7\Small_Project7\obj\Debug\Small_Project7.csprojResolveAssemblyReference.cache
+C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_Project7\Small_Project7\obj\Debug\Small_Project7.MainPane.resources
+C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_Project7\Small_Project7\obj\Debug\Small_Project7.Properties.Resources.resources
+C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_Project7\Small_Project7\obj\Debug\Small_Project7.csproj.GenerateResource.Cache
+C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_Project7\Small_Project7\bin\Debug\Small_Project7.exe
+C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_Project7\Small_Project7\bin\Debug\Small_Project7.pdb
+C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_Project7\Small_Project7\obj\Debug\Small_Project7.exe
+C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_Project7\Small_Project7\obj\Debug\Small_Project7.pdb
+E:\Meta Folder\uat\Semester 6\CSC202\Small_Project7\Small_Project7\bin\Debug\Small_Project7.exe.config
+E:\Meta Folder\uat\Semester 6\CSC202\Small_Project7\Small_Project7\obj\Debug\Small_Project7.exe
+E:\Meta Folder\uat\Semester 6\CSC202\Small_Project7\Small_Project7\obj\Debug\Small_Project7.pdb
+E:\Meta Folder\uat\Semester 6\CSC202\Small_Project7\Small_Project7\bin\Debug\Small_Project7.exe
+E:\Meta Folder\uat\Semester 6\CSC202\Small_Project7\Small_Project7\bin\Debug\Small_Project7.pdb
+E:\Meta Folder\uat\Semester 6\CSC202\Small_Project7\Small_Project7\obj\Debug\Small_Project7.csprojResolveAssemblyReference.cache
+E:\Meta Folder\uat\Semester 6\CSC202\Small_Project7\Small_Project7\obj\Debug\Small_Project7.MainPane.resources
+E:\Meta Folder\uat\Semester 6\CSC202\Small_Project7\Small_Project7\obj\Debug\Small_Project7.Properties.Resources.resources
+E:\Meta Folder\uat\Semester 6\CSC202\Small_Project7\Small_Project7\obj\Debug\Small_Project7.csproj.GenerateResource.Cache

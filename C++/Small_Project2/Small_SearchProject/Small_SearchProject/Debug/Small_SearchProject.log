@@ -1,0 +1,15 @@
+﻿Build started 11/8/2014 2:00:31 PM.
+     1>Project "C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_SearchProject\Small_SearchProject\Small_SearchProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_searchproject\small_searchproject\source.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\spark flash\documents\visual studio 2012\projects\small_searchproject\small_searchproject\source.cpp(41): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_SearchProject\Debug\Small_SearchProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_SearchProject\Debug\Small_SearchProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_SearchProject\Debug\Small_SearchProject.lib" /MACHINE:X86 Debug\Source.obj
+         Small_SearchProject.vcxproj -> C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_SearchProject\Debug\Small_SearchProject.exe
+     1>Done Building Project "C:\Users\Spark Flash\documents\visual studio 2012\Projects\Small_SearchProject\Small_SearchProject\Small_SearchProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.55

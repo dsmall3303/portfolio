@@ -1,0 +1,6 @@
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project 5\Small_Project 5\bin\Debug\Small_Project 5.exe.config
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project 5\Small_Project 5\bin\Debug\Small_Project 5.exe
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project 5\Small_Project 5\bin\Debug\Small_Project 5.pdb
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project 5\Small_Project 5\obj\Debug\Small_Project 5.csprojResolveAssemblyReference.cache
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project 5\Small_Project 5\obj\Debug\Small_Project 5.exe
+c:\users\spark flash\documents\visual studio 2012\Projects\Small_Project 5\Small_Project 5\obj\Debug\Small_Project 5.pdb
